@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "boVn5JigjFrKwQKzcIyzPzpZValoQYfGWcqiNGHkJrfkWiB1gWIILXvA5NN9LyfpSoSjrVZB33xRMea4lV48eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\enum\\enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
